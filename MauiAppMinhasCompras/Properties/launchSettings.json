@@ -1,8 +1,8 @@
 {
-  "profiles": {
-    "Windows Machine": {
-      "commandName": "MsixPackage",
-      "nativeDebugging": false
+    "profiles": {
+        "Windows Machine": { // Perfil de configuração chamado "Windows Machine"
+            "commandName": "MsixPackage", // Define o comando como "MsixPackage", usado para empacotamento e implantação
+            "nativeDebugging": false // Desativa a depuração nativa
+        }
     }
-  }
 }
